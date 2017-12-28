@@ -1,0 +1,16 @@
+D:\dotnetcoreapps\DebugOnWSL\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\dotnetcoreapps\DebugOnWSL\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\dotnetcoreapps\DebugOnWSL\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\dotnetcoreapps\DebugOnWSL\UnitTestProject1\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\dotnetcoreapps\DebugOnWSL\UnitTestProject1\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\dotnetcoreapps\DebugOnWSL\UnitTestProject1\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\dotnetcoreapps\DebugOnWSL\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\dotnetcoreapps\DebugOnWSL\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\dotnetcoreapps\DebugOnWSL\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\dotnetcoreapps\DebugOnWSL\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\dotnetcoreapps\DebugOnWSL\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\dotnetcoreapps\DebugOnWSL\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\dotnetcoreapps\DebugOnWSL\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+D:\dotnetcoreapps\DebugOnWSL\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+D:\dotnetcoreapps\DebugOnWSL\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\dotnetcoreapps\DebugOnWSL\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

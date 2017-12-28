@@ -1,0 +1,1 @@
+D:\dotnetcoreapps\DebugOnWSL\WebApplication1\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
